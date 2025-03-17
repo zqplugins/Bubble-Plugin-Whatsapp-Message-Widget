@@ -1,0 +1,116 @@
+{
+    "add_is_visible": true,
+    "can_fit_height": false,
+    "can_fit_width": false,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 32,
+        "width": 32
+    },
+    "display": "Whatsapp Widget",
+    "fields": {
+        "AAF": {
+            "caption": "Phone Number",
+            "doc": "Enter the International number to which the message should be sent",
+            "editor": "DynamicValue",
+            "name": "phone_number",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAG": {
+            "caption": "Popup Message",
+            "doc": "Specify the message that should be shown in the popup",
+            "editor": "DynamicValue",
+            "name": "popup",
+            "rank": 1,
+            "value": "text"
+        },
+        "AAH": {
+            "caption": "show Popup?",
+            "default_val": true,
+            "doc": "Specify if a popup should be shown on hover",
+            "editor": "Checkbox",
+            "name": "showpopup",
+            "rank": 2
+        },
+        "AAI": {
+            "caption": "Header Title",
+            "default_val": "Whatsapp Chat",
+            "doc": "Choose the header title of the popup",
+            "editor": "DynamicValue",
+            "name": "header_title",
+            "rank": 3,
+            "value": "text"
+        },
+        "AAJ": {
+            "caption": "Header Color",
+            "default_val": "rgba(18, 140, 126, 1)",
+            "doc": "Choose the header color of the popup",
+            "editor": "Color",
+            "name": "header_color",
+            "rank": 4
+        },
+        "AAK": {
+            "caption": "Position",
+            "default_val": "left",
+            "doc": "Choose the position of the whatsapp widget (bottom left or bottom right)",
+            "editor": "Dropdown",
+            "name": "position",
+            "options": "left,right",
+            "rank": 5
+        },
+        "AAM": {
+            "caption": "Size icon",
+            "default_val": 56,
+            "editor": "DynamicValue",
+            "name": "icon_size",
+            "rank": 6,
+            "value": "number"
+        },
+        "AAQ": {
+            "caption": "Responsive positioning",
+            "default_val": false,
+            "doc": "If true, then the floating button will be positioned where the bubble element is positioned and properties (Top, Bottom, Left, Right) are ignored",
+            "editor": "Checkbox",
+            "in_style": true,
+            "name": "responsive_positioning",
+            "rank": 11
+        },
+        "AAR": {
+            "caption": "Top",
+            "default_val": "auto",
+            "editor": "StaticText",
+            "in_style": false,
+            "name": "top",
+            "rank": 7
+        },
+        "AAS": {
+            "caption": "Bottom",
+            "default_val": "15px",
+            "editor": "StaticText",
+            "in_style": false,
+            "name": "bottom",
+            "rank": 8
+        },
+        "AAT": {
+            "caption": "Left",
+            "default_val": "15px",
+            "editor": "StaticText",
+            "in_style": false,
+            "name": "left",
+            "rank": 9
+        },
+        "AAU": {
+            "caption": "Right",
+            "default_val": "auto",
+            "editor": "StaticText",
+            "name": "right",
+            "rank": 10
+        }
+    },
+    "icon": "ion-social-whatsapp",
+    "property_applications": {
+        "MinWidth": true,
+        "resizable": true
+    }
+}

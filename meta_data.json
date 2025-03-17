@@ -1,0 +1,18 @@
+{
+    "categories": {
+        "0": "analytics",
+        "1": "social network",
+        "2": "media",
+        "3": "productivity",
+        "4": "customer support"
+    },
+    "data_tracked": false,
+    "demo_page": "https://rapidplugins-2.bubbleapps.io/version-test/whatsapp?",
+    "description": "This plugin has been recently acquired by Zeroqode - please bear with us while we review the code and make improvements/fixes where necessary.\n\nWhatsApp widget that allows you to display a widget at the bottom of your page and the ability for users to send a whatsapp message to your number.\n\nUPD 03.09.24 Since version 1.4.0 plugin works on Safari browser and on mobile devices.\n\n 👛 Please support our efforts to keep this plugin free—your donations help us invest the time and resources needed to continue maintaining and improving it for everyone's benefit:  [color=#1AAFD0][url=https://zeroqo.de/support]https://zeroqo.de/support[/color][/url].\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1569940754281x739368442489696500/whatsapp.png",
+    "license": "open_source",
+    "link": "https://docs.zeroqode.com/plugins/whatsapp-message-widget",
+    "name": "Whatsapp Message Widget",
+    "plugin_instructions": "Please refer to the plugin documentation to see how to configure it: https://docs.zeroqode.com/plugins/whatsapp-message-widget",
+    "sa_node_version": 18
+}

@@ -1,0 +1,24 @@
+{
+    "assets": {
+        "AAC": {
+            "name": "floatinwp.css",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1568494119962x757860042345683000/floating-wpp.min.js"
+        },
+        "AAD": {
+            "name": "floatingwpmincss.css",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1568494166550x436431852829925570/floating-wpp.min.css"
+        },
+        "AAO": {
+            "name": "wp",
+            "url": "//meta-q.cdn.bubble.io/f1725288394910x322680138792982500/floating-wpp.min.js"
+        },
+        "AAP": {
+            "name": "wp",
+            "url": "//meta-q.cdn.bubble.io/f1725288402907x876654920990986600/floating-wpp.min.css"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": "4",
+        "use_jquery": true
+    }
+}
